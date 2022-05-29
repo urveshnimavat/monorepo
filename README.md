@@ -17,4 +17,4 @@ A monorepo demo built using NestJs, ReactJS, Lerna and docker.
 
 ## stop specific container
 
-``` docker stop api/frontend 
+``` docker stop api/frontend ```
