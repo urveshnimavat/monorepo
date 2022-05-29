@@ -1,0 +1,14 @@
+{
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^5.0.0"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "urvesh_nimavat",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ]
+}
